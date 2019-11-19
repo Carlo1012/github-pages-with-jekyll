@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Carlo Delos Santos
 
-I'm glad you are here. I plan to talk about ...
+Frustrated Programmer
+HTML CSS SASS JS PHP MYSQL
